@@ -1,6 +1,6 @@
 This is an example Ruby project used in Codeanywhere.
 
-[Try it out](https://beta.codeanywhere.com/workspace#https://github.com/Codeanywhere-Templates/ruby)
+[Try it out](https://app.codeanywhere.com/workspace#https://github.com/Codeanywhere-Templates/ruby)
 
 ### Running the project
 
